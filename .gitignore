@@ -219,3 +219,5 @@ replay_pid*
 /db
 **/.idea
 
+.gitsecret/keys/random_seed
+!*.secret
